@@ -5,3 +5,5 @@ Fork del repository principale developers.italia.it e creazione del file dichiar
 <a href="https://dichiarazioneprecompilata.agenziaentrate.gov.it/PrecomWeb/">ACCEDI ALLA PRECOMPILATA </a>
 <br>
 In teamdigitale.governo.it sezione strumenti forum italia, sono pubblicate alcune specifiche tecniche come utilizzare la pagina web della dichiarazione.
+<br>
+<a href="https://forum.italia.it/t/agenzia-delle-entrate-dichiarazione-dei-redditi-in-forma-precompilata/39563">Linea Guida della dichiarazione precompilata </a>
